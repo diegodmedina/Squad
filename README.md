@@ -1,2 +1,2 @@
 # Squad
- Primeiro repositorio feito para mentoria VemPraTI
+ Primeiro repositório feito para mentoría VemPraTI
