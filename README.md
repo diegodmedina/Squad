@@ -1,2 +1,2 @@
 # Squad
- Primeiro repositório feito para o projeto VemPraTI
+ Primeiro repositório feito para o projeto **VemPraTI**
