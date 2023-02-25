@@ -5,3 +5,34 @@
 body{
     background-color: #acacff;
 }
+img.logo{
+    width: 120px;
+    height: 120px;
+    float: top;
+
+    }
+
+main{
+    background-color: white;
+    width: 1100px;
+    margin: auto;
+    padding: 70px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.500);
+}
+
+h1{
+    font-size: 3em;
+    width: 1100px;
+    margin: 50px -150px -95px 100px;
+    background-color: #48484b0e;
+    padding: 10px;    
+    color: rgb(253, 78, 15);
+    float: right;
+    
+       
+}
+
+h2{
+    font-size: 2em;
+    color: rgb(63, 74, 167);
+}
