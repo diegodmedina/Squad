@@ -10,12 +10,16 @@ img.logo{
     height: 120px;
     float: top;
 
+/*CONFIGURAR IMAGEM EMBAIXO DOS PARÁGRAFOS*/
+
 }
 img.fotos-code{
+    margin-right: 500px;
+    margin-left: 250px;
+    margin-top: 25px;
     width: 250px;
     height: 150px;
-    float: right;
-    position: relative;
+    
     
 }
 img.btn-back{
