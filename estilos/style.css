@@ -10,8 +10,19 @@ img.logo{
     height: 120px;
     float: top;
 
-    }
-
+}
+img.fotos-code{
+    width: 250px;
+    height: 150px;
+    float: right;
+    position: relative;
+    
+}
+img.btn-back{
+    float: left;
+    
+}
+    
 main{
     background-color: white;
     width: 1100px;
@@ -30,6 +41,14 @@ h1{
     float: right;
     
        
+}
+h1.clone{
+    font-size: 3em;
+    width: 1200px;
+    margin: 50px -100px -105px 1000px;
+    padding: 20px;    
+    color: rgb(253, 78, 15);
+    float: top;
 }
 
 h2{
